@@ -1,4 +1,4 @@
-## Chem/Bioinformatician 
+ ## Chem/Bioinformatician 
 
-Bash,tcl,python,script examples
+Bash, Tcl, Python, and script examples
 
