@@ -1,0 +1,5 @@
+#primer analyzer.
+#PCR
+#Citation: Thermo Fisher Scientific. USER GUIDE Command-Line Application for QuantStudio™ Design and Analysis desktop Software v1.2.x. for use with: QuantStudio™ 3 and 5 Real-Time PCR Systems. Publication Number MAN0010409, Revision A.0. Carlsbad, CA: Thermo Fisher Scientific; 2015.
+cmdlineutil.exe -expgen -t "C:\data\experiments" -m "C:\data\experiments\sample.txt" -c "alloptionsused" -b "C:\data\barcodes - v12.txt" -f "C:\data\file" -l "C:\data\new" 
+cmdlineutil.exe -export -e "C:\experiments\data” -f “QuantStudio” -l "C:\exports\"-s “single” -x “rdml”
